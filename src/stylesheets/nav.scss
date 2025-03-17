@@ -1,11 +1,12 @@
-// src/stylesheets/nav.scss
-
+//imports
 @use "sass:color";
 
+/* Variables needed for nav styles */
 $primary-color: #0d6efd;
 $secondary-color: #333;
 $background-light: #fff;
 
+// nav styles
 .nav {
   position: absolute;
   right: 0em;
